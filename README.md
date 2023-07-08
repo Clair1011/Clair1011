@@ -1,8 +1,13 @@
 ### Hi there 👋 Nice to see you.
 
 <p>Welcome to my page! </br> I'm Claire.</p>
-
+<p>Currently working as a cybersecurity analyst, I am a newcomer to the field of cybersecurity.</p>
+<p>I aspire to continue delving deeper into the realm of cybersecurity and welcome guidance or opportunities for exchange from experienced professionals in related fields.</p>
 <br />
+
+### - ⚡Certification
+
+### ISO27001
 
 ### - ⚡Languages 
 
